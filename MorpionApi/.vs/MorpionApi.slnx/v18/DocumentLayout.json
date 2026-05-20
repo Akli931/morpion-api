@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|c:\\users\\aklih\\bureau\\morpion\\morpion-api\\morpionapi\\morpionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|solutionrelative:morpionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|c:\\users\\aklih\\bureau\\morpion\\morpion-api\\morpionapi\\morpionapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|solutionrelative:morpionapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|c:\\users\\aklih\\bureau\\morpion\\morpion-api\\morpionapi\\morpionapi\\services\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|solutionrelative:morpionapi\\services\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|c:\\users\\aklih\\bureau\\morpion\\morpion-api\\morpionapi\\morpionapi\\services\\gamestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|solutionrelative:morpionapi\\services\\gamestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|c:\\users\\aklih\\bureau\\morpion\\morpion-api\\morpionapi\\morpionapi\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|solutionrelative:morpionapi\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|c:\\users\\aklih\\bureau\\morpion\\morpion-api\\morpionapi\\morpionapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E11ACC9-1860-9E03-67BC-C5856FCB65E2}|MorpionApi\\MorpionApi.csproj|solutionrelative:morpionapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Program.cs",
+              "RelativeDocumentMoniker": "MorpionApi\\Program.cs",
+              "ToolTip": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Program.cs",
+              "RelativeToolTip": "MorpionApi\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:53:44.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BotService.cs",
+              "DocumentMoniker": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Services\\BotService.cs",
+              "RelativeDocumentMoniker": "MorpionApi\\Services\\BotService.cs",
+              "ToolTip": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Services\\BotService.cs",
+              "RelativeToolTip": "MorpionApi\\Services\\BotService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:51:03.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameStore.cs",
+              "DocumentMoniker": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Services\\GameStore.cs",
+              "RelativeDocumentMoniker": "MorpionApi\\Services\\GameStore.cs",
+              "ToolTip": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Services\\GameStore.cs",
+              "RelativeToolTip": "MorpionApi\\Services\\GameStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:49:57.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Models\\Dtos.cs",
+              "RelativeDocumentMoniker": "MorpionApi\\Models\\Dtos.cs",
+              "ToolTip": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Models\\Dtos.cs",
+              "RelativeToolTip": "MorpionApi\\Models\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:49:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "MorpionApi\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Models\\Game.cs",
+              "RelativeToolTip": "MorpionApi\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:48:09.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "MorpionApi\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\aklih\\Bureau\\Morpion\\morpion-api\\MorpionApi\\MorpionApi\\Controllers\\GameController.cs",
+              "RelativeToolTip": "MorpionApi\\Controllers\\GameController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:45:41.226Z",
+              "EditorCaption": ""
             }
           ]
         }
