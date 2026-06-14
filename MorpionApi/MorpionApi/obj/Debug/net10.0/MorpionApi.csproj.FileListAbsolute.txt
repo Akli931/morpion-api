@@ -29,10 +29,14 @@ C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\MorpionApi.csproj.Up2Date
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\MorpionApi.dll
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\refint\MorpionApi.dll
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\MorpionApi.pdb
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\MorpionApi.genruntimeconfig.cache
 C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\obj\Debug\net10.0\ref\MorpionApi.dll
+C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aklih\Bureau\Morpion\morpion-api\MorpionApi\MorpionApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
