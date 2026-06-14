@@ -1,9 +1,11 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MorpionApi.Models;
 using MorpionApi.Services;
 
 namespace MorpionApi.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("api/games")]
 public class GameController(GameStore store) : ControllerBase
